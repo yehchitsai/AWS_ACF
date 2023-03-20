@@ -4,7 +4,7 @@
 ## 第一部分 AWS學習地圖
 說明AWS專業證照的學習路徑。
   - Chapter 1. 認識 AWS 學習資源與認證
-  - Chapter 2. AWS Academy 教師系統使用說明
+  - Chapter 2. AWS Academy LMS學習平台
 ## 第二部分 雲端計算概念
 包含雲端計算簡介、成本、AWS基礎設施與雲端安全責任共擔模型。
   - Chapter 3. 雲端概念

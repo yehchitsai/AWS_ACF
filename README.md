@@ -5,24 +5,25 @@
 說明AWS專業證照的學習路徑。
   - Chapter 1. 認識 AWS 學習資源與認證
   - Chapter 2. AWS Academy LMS學習平台
+  - Chapter 3.	申請AWS 帳戶
 ## 第二部分 雲端計算概念
 包含雲端計算簡介、成本、AWS基礎設施與雲端安全責任共擔模型。
-  - Chapter 3. 雲端概念
-  - Chapter 4. 雲端經濟學與帳單
-  - Chapter 5. AWS 全球基礎設施
-  - Chapter 6. AWS 雲端安全
+  - Chapter 4. 雲端概念
+  - Chapter 5. 雲端經濟學與帳單
+  - Chapter 6. AWS 全球基礎設施
+  - Chapter 7. AWS 雲端安全
 ## 第三部分 AWS核心服務
 介紹AWS的核心服務，包含了雲端網路配置、計算服務、儲存種類與資料庫等。
-  - Chapter 7. 網路與內容分發
-  - Chapter 8. 雲端計算
-  - Chapter 9. 雲端儲存
-  - Chapter 10. 雲端資料庫
+  - Chapter 8. 網路與內容分發
+  - Chapter 9. 雲端計算
+  - Chapter 10. 雲端儲存
+  - Chapter 11. 雲端資料庫
 ## 第四部分 雲端計算架構與監控
 雲端計算架構設計原則，如何進行自動擴展與監控。
-  - Chapter 11. 雲端架構設計
-  - Chapter 12. 自動擴展與監控
+  - Chapter 12. 雲端架構設計
+  - Chapter 13. 自動擴展與監控
 ## 第五部分 AWS 認證與勳章
 如何透過 AWS Academy 取得半價優惠券，準備考試練習與如何結合社群網路讓公司看到學習成效。
-  - Chapter 13. 報考 AWS 認證
-  - Chapter 14. 取得勳章
+  - Chapter 14. 報考 AWS 認證
+  - Chapter 15. 取得勳章
 

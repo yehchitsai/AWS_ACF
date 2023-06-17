@@ -28,14 +28,17 @@
   - Chapter 15. 取得勳章
 
 ## 實驗1：構建 VPC 並啓動 Web 伺服器
-本實驗將利用Learner Lab的資源，從無到有建構實驗場景的內容，實驗場景如下圖所示。
-❶在地區内建構一個VPC；
-❷兩個可用區A與B；
-❸每個可用區各自有兩個子網，一個為公有子網，一個為私有子網；公有子網可以透過Internet Gateway對外提供服務，私有子網則是可以透過NAT gateway存取網際網路資源，但不可以對外提供服務；
-❹公有子網關聯到公有路由表(Public Route Table)，而私有子網則是關聯到私有路由表(Private Route Table)；
-❺Web伺服器放在公有子網2。
-![lab01 architecture](./assets/chapter-08-07.png) 
-Web伺服器位於AWS VPC
+本實驗將利用Learner Lab的資源，從無到有建構實驗場景的內容，實驗場景如下圖所示。  
+❶在地區内建構一個VPC；  
+❷兩個可用區A與B；  
+❸每個可用區各自有兩個子網，一個為公有子網，一個為私有子網；公有子網可以透過Internet Gateway對外提供服務，私有子網則是可以透過NAT gateway存取網際網路資源，但不可以對外提供服務；  
+❹公有子網關聯到公有路由表(Public Route Table)，而私有子網則是關聯到私有路由表(Private Route Table)；  
+❺Web伺服器放在公有子網2。  
+
+| ![lab01 architecture](./assets/chapter-08-07.png)  |
+|:--:|
+| <b>圖 1. Web伺服器位於AWS VPC</b>|
+
 本實驗的任務如下：
 - 建立 VPC。
 - 建立子網。

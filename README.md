@@ -1,5 +1,9 @@
 # AWS雲端運算基礎與實作
 這本書主要是針對基礎的雲端運算從業人員教材為主。課本的內容以AWS Academy所提供的AWS Academy Cloud Foundations教材為主，並會提供額外的練習實驗，主要的程式語言會以 Python 來示範，使用者可以在自己的帳號下完成，或是利用 AWS Learner Lab學習帳號下完成。
+如有興趣可至以下地方購買：
+[博客來](https://www.books.com.tw/products/0010966240)
+[天瓏書局](https://www.tenlong.com.tw/products/9786263335752)
+
 這本書規劃成 5 個部分，從零開始帶你了解雲端運算的組成，並透過每個單元的實作讓你一步一步完成這份專案：
 ## 第一部分 AWS學習地圖
 說明AWS專業證照的學習路徑。
